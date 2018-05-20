@@ -1,1 +1,7 @@
 This is the ZZMOP code.
+
+First add JForex SDK (Forex simulation and data download), Weka (EMClusterer) and LibSVM (SVM).
+
+Run ParameterOptimizer to determine appropriate parameters.
+
+Run ZZMOP and Online_Pattern_Mining_SVM_Strategy for the relevant interval.
